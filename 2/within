@@ -1,0 +1,71 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: mar., abr. 12, 2022 - 12:32:59
+\begin{table}[!htbp] \centering 
+  \caption{} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & Crime rate \\ 
+\hline \\[-1.8ex] 
+ log(Pa) & $-$0.385$^{***}$ \\ 
+  & (0.033) \\ 
+  & \\ 
+ log(Pc) & $-$0.301$^{***}$ \\ 
+  & (0.021) \\ 
+  & \\ 
+ log(Pp) & $-$0.191$^{***}$ \\ 
+  & (0.033) \\ 
+  & \\ 
+ log(S) & 0.026 \\ 
+  & (0.025) \\ 
+  & \\ 
+ log(police) & 0.424$^{***}$ \\ 
+  & (0.027) \\ 
+  & \\ 
+ log(density) & 0.409 \\ 
+  & (0.279) \\ 
+  & \\ 
+ log(pym) & 0.381 \\ 
+  & (0.325) \\ 
+  & \\ 
+ log(wcon) & $-$0.034 \\ 
+  & (0.039) \\ 
+  & \\ 
+ log(wtuc) & 0.029$^{*}$ \\ 
+  & (0.018) \\ 
+  & \\ 
+ log(wtrd) & $-$0.039 \\ 
+  & (0.041) \\ 
+  & \\ 
+ log(wfir) & $-$0.013 \\ 
+  & (0.029) \\ 
+  & \\ 
+ log(wser) & 0.004 \\ 
+  & (0.019) \\ 
+  & \\ 
+ log(wmfg) & $-$0.388$^{***}$ \\ 
+  & (0.102) \\ 
+  & \\ 
+ log(wfed) & $-$0.553$^{***}$ \\ 
+  & (0.165) \\ 
+  & \\ 
+ log(wsta) & 0.216$^{**}$ \\ 
+  & (0.101) \\ 
+  & \\ 
+ log(wloc) & 0.341$^{***}$ \\ 
+  & (0.107) \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 630 \\ 
+R$^{2}$ & 0.425 \\ 
+Adjusted R$^{2}$ & 0.310 \\ 
+F Statistic & 24.220$^{***}$ (df = 16; 524) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 
