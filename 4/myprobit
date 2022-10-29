@@ -1,0 +1,61 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: vie., may. 20, 2022 - 19:18:49
+\begin{table}[!htbp] \centering 
+  \caption{} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & Desercion \\ 
+\hline \\[-1.8ex] 
+ mujer1 & $-$0.119$^{*}$ \\ 
+  & (0.063) \\ 
+  & \\ 
+ jmujer1 & 0.154$^{**}$ \\ 
+  & (0.064) \\ 
+  & \\ 
+ educ\_jefe2 & $-$0.159 \\ 
+  & (0.467) \\ 
+  & \\ 
+ educ\_jefe3 & 0.044 \\ 
+  & (0.769) \\ 
+  & \\ 
+ educ\_jefe4 & $-$0.455 \\ 
+  & (0.466) \\ 
+  & \\ 
+ educ\_jefe5 & $-$0.330 \\ 
+  & (0.806) \\ 
+  & \\ 
+ educ\_jefe6 & $-$0.581 \\ 
+  & (0.475) \\ 
+  & \\ 
+ educ\_jefe7 & $-$1.036$^{**}$ \\ 
+  & (0.485) \\ 
+  & \\ 
+ educ\_jefe8 & $-$0.414 \\ 
+  & (0.581) \\ 
+  & \\ 
+ educ\_jefe9 & $-$4.241 \\ 
+  & (92.127) \\ 
+  & \\ 
+ edad & 0.447$^{***}$ \\ 
+  & (0.022) \\ 
+  & \\ 
+ ingreso\_per\_capita & $-$0.00000 \\ 
+  & (0.00000) \\ 
+  & \\ 
+ Constant & $-$8.421$^{***}$ \\ 
+  & (0.616) \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 4,518 \\ 
+Log Likelihood & $-$984.077 \\ 
+Akaike Inf. Crit. & 1,994.154 \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 
